@@ -1,0 +1,13 @@
+{
+  "name": "UG Downloader",
+  "version": "1.0",
+  "manifest_version": 2,
+  "browser_action": {
+  "default_icon": "iconUG.png",
+  "name": "Click to download tab"
+  },
+  "background":{
+    "scripts":["background.js"]
+  },
+  "permissions":["http://tabs.ultimate-guitar.com/*"]
+}
