@@ -9,5 +9,5 @@
   "background":{
     "scripts":["background.js"]
   },
-  "permissions":["http://tabs.ultimate-guitar.com/*"]
+  "permissions":["https://tabs.ultimate-guitar.com/*", "http://tabs.ultimate-guitar.com/*]
 }
